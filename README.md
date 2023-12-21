@@ -1,4 +1,5 @@
-![banner]Sistema_de_Gestao_de_Estoque_EletroTech-main/Sistema_de_Gestao_de_Estoque_EletroTech-main/img/banner.jpeg
+![banner] Sistema_de_Gestao_de_Estoque_EletroTech/Sistema_de_Gestao_de_Estoque_EletroTech-main/Sistema_de_Gestao_de_Estoque_EletroTech-main/img
+/banner.jpeg
 
 # Sistema de Gestão de Estoque EletroTech
 O principal objetivo deste projeto é criar um sistema que permita à EletroTech monitorar e gerenciar seu estoque de forma eficaz, garantindo que haja sempre um equilíbrio adequado entre a oferta e a demanda.
