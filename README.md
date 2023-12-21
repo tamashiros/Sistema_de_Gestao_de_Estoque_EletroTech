@@ -1,4 +1,4 @@
-![banner]https://github.com/tamashiros/Sistema_de_Gestao_de_Estoque_EletroTech/blob/main/banner.jpeg
+![banner](
 
 # Sistema de Gestão de Estoque EletroTech
 O principal objetivo deste projeto é criar um sistema que permita à EletroTech monitorar e gerenciar seu estoque de forma eficaz, garantindo que haja sempre um equilíbrio adequado entre a oferta e a demanda.
